@@ -29,6 +29,31 @@ body{
     background: var(--darker-color);
 }
 
+*{padding:0;margin:0;}
+
+body{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:60px;
+	background-color: #042c4d;
+}
+
+.float{
+	position:fixed;
+	width:60px;
+	height:65px;
+	bottom:40px;
+	right:40px;
+	background-color: #08508f;
+	color:#FFF;
+	border-radius:10px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #024771;
+}
+
+.my-float{
+	margin-top:22px;
+}
+
 .botton{
     border: none;
   color: white;
