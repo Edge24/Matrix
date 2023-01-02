@@ -45,13 +45,13 @@ h3{
 
 .float{
 	position:fixed;
-	width:40px;
-	height:10px;
+	width:20px;
+	height:20px;
 	bottom:40px;
 	right:40px;
 	background-color:#042c4d;
 	color:#FFF;
-	border-radius:1.5px;
+	border-radius:2px;
 	text-align:center;
 	box-shadow: 2px 2px 3px #042c4d;
 }
