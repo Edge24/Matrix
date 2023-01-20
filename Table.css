@@ -29,37 +29,35 @@ body{
     background: var(--darker-color);
 }
 
-
 *{padding:0;margin:0;}
 
 body{
 	font-family:Verdana, Geneva, sans-serif;
 	font-size:18px;
-	background-color:#CCC;
+	background-color:rgb(255, 255, 255);
 }
 
-h3{
-	color:#ccc;
-	font-size:20px;
+a img{
+    border-radius: 8px;
 }
 
 .float{
 	position:fixed;
-	width:80px;
-	height:20px;
-	bottom:20px;
+	width:65px;
+	height:80px;
+	bottom:40px;
 	right:40px;
-	background-color:#042c4d;
+    padding: 4px;
+	background-color:rgb(4, 4, 4);
 	color:#FFF;
-	border-radius:2px;
+	border-radius:10px;
 	text-align:center;
-	box-shadow: 2px 2px 3px #042c4d;
+	box-shadow: 2px 2px 3px rgb(0, 0, 0);
 }
 
 .my-float{
 	margin-top:22px;
 }
-
 
 .botton{
     border: none;
