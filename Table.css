@@ -26,7 +26,7 @@ html{
 }
 
 body{
-    background: var(--darker-color);
+    background:#042c4d;
 }
 
 *{padding:0;margin:0;}
